@@ -1,17 +1,1 @@
-{
-    "format_version": 2,
-    "header": {
-        "name": "Gomoku Board Resource Pack",
-        "description": "五子棋棋盘与棋子资源（Nukkit-MOT 服务端内置）",
-        "uuid": "825cc2a1-b604-4fd5-b9d0-f00046ac9e23",
-        "version": [1, 6, 0],
-        "min_engine_version": [1, 17, 0]
-    },
-    "modules": [
-        {
-            "type": "resources",
-            "uuid": "51e8973f-e263-443d-ad64-b902a3da8c9d",
-            "version": [1, 6, 0]
-        }
-    ]
-}
+{"format_version":2,"header":{"name":"Tabletop Game Resource Pack","description":"桌面游戏资源包：四棋（五子棋 / 象棋 / 黑白棋 / 围棋）与 UNO（Nukkit-MOT 服务端内置）","uuid":"a74f733e-46cc-45bd-8895-07d864a2e1d9","version":[1,22,25],"min_engine_version":[1,17,0]},"modules":[{"type":"resources","uuid":"d8a04b32-32b6-4155-8732-de954d71cb8a","version":[1,22,25]}]}

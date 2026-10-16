@@ -1,14 +1,1 @@
-{
-  "resource_pack_name": "Gomoku",
-  "texture_name": "atlas.terrain",
-  "padding": 8,
-  "num_mip_levels": 4,
-  "texture_data": {
-    "gomoku_board_top": {
-      "textures": "textures/gomoku/board_surface"
-    },
-    "gomoku_board_side": {
-      "textures": "textures/gomoku/board_frame"
-    }
-  }
-}
+{"resource_pack_name":"TabletopGame","texture_name":"atlas.terrain","padding":8,"num_mip_levels":4,"texture_data":{"tabletopgame_board_top":{"textures":"textures/tabletopgame/gomoku/board_surface"},"tabletopgame_board_side":{"textures":"textures/tabletopgame/public/board_frame"},"tabletopgame_xiangqi_board_top":{"textures":"textures/tabletopgame/xiangqi/xiangqi_board_surface"},"tabletopgame_othello_board_top":{"textures":"textures/tabletopgame/othello/othello_board_surface"},"tabletopgame_go_board_top_9":{"textures":"textures/tabletopgame/go/go_board_9"},"tabletopgame_go_board_top_13":{"textures":"textures/tabletopgame/go/go_board_13"},"tabletopgame_go_board_top_19":{"textures":"textures/tabletopgame/go/go_board_19"},"tabletopgame_uno_physical_table":{"textures":"textures/tabletopgame/uno/physical_table_block"}}}

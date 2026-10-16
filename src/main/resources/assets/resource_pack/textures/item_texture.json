@@ -1,9 +1,1 @@
-{
-  "resource_pack_name": "Gomoku",
-  "texture_name": "atlas.items",
-  "texture_data": {
-    "gomoku_board_icon": {
-      "textures": "textures/gomoku/board_icon"
-    }
-  }
-}
+{"resource_pack_name":"TabletopGame","texture_name":"atlas.items","texture_data":{"tabletopgame_locator":{"textures":"textures/tabletopgame/uno/locator_item"},"tabletopgame_board_icon":{"textures":"textures/tabletopgame/gomoku/board_icon"},"tabletopgame_xiangqi_board_icon":{"textures":"textures/tabletopgame/xiangqi/xiangqi_board_icon"},"tabletopgame_othello_board_icon":{"textures":"textures/tabletopgame/othello/othello_board_icon"},"tabletopgame_go_board_icon_9":{"textures":"textures/tabletopgame/go/go_board_9"},"tabletopgame_go_board_icon_13":{"textures":"textures/tabletopgame/go/go_board_13"},"tabletopgame_go_board_icon_19":{"textures":"textures/tabletopgame/go/go_board_19"},"tabletopgame_uno_table_icon":{"textures":"textures/tabletopgame/uno/physical_table_item"}}}
